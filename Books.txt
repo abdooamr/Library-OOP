@@ -1,0 +1,6 @@
+Lo Title1 Author1 Location1 0 Genr1 112.0 true
+No Title1 Author1 Location1 0 Genr1 932.0 true
+Zo Title1 Author1 Location1 0 Genr1 942.0 true
+ne Title1 Author1 Location1 1 Test 9512.0 true
+23 Tester John Historic 22 History 2114.0 false
+ISBN44 Title213 Author32 Location213 22 Genre213 21345.0 false
