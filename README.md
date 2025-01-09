@@ -1,5 +1,3 @@
-Great! Based on the additional information that your Java library is used for renting and buying books, you can customize the README template to better fit your specific use case. Here's a modified version:
-
 # Book Rental and Purchase System
 
 A Java library for managing book rentals and purchases.
